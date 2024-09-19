@@ -46,7 +46,7 @@ region = us-west-1
 [profile my-profile]
 region = us-west-1
 sts_regional_endpoints = regional
-endpoint_url = https://vpce-04d9e4dc750078c2b-s9cm8r83.sts.us-west-1.vpce.amazonaws.com
+endpoint_url = https://vpce.sts.us-west-1.vpce.amazonaws.com
 ```
 
 ### Key Variables:
