@@ -49,7 +49,6 @@ An **Index Pattern** in OpenSearch Dashboards helps you identify and search data
    - In the **Index pattern name** field, enter a pattern that matches one or more of your indexes (e.g., `logs-*` to match indexes named `logs-2024-01`, `logs-2024-02`, etc.).
    - Click **Next Step** and select the **Time Filter field** if your indexes contain a timestamp field (this is often required for log data).
    - Click **Create index pattern** to save it.
-![Screenshot 2024-11-06 at 9 02 33 AM](https://github.com/user-attachments/assets/033926f0-dee0-47fa-98ad-dd4c96f09bf0)
 ![Screenshot 2024-11-06 at 9 02 46 AM](https://github.com/user-attachments/assets/235b9b94-3d3e-4ff7-b342-938c522023b3)
 
 > **Note**: Once created, the index pattern can be used in **Discover** to query and visualize data across multiple indexes that match the pattern.
