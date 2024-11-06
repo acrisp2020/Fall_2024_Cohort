@@ -9,6 +9,8 @@ OpenSearch Dashboards is a powerful interface for managing, visualizing, and que
 1. **Log in** to your OpenSearch Dashboards instance.
 2. Once logged in, you’ll see the **Home Page**, which provides quick links to popular features and helpful guides.
 
+![Screenshot 2024-11-06 at 8 58 51 AM](https://github.com/user-attachments/assets/7d855c32-b375-42f2-9273-5a057e9dfe9d)
+
 ---
 
 ### Step 2: Set Up Index Management
