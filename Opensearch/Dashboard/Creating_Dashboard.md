@@ -112,8 +112,6 @@ The **Dev Tools** console provides a powerful interface to run OpenSearch querie
      DELETE /logs-2024-01
      ```
 
-> **Tip**: Dev Tools is ideal for testing queries and managing your indexes in real time.
-
 > **Tip**: Adjust time frame in the top right to show your data based upon the date variable selected.
 
 ![Screenshot 2024-11-06 at 9 06 15 AM](https://github.com/user-attachments/assets/75a045c5-634d-4883-8532-1390a2fe14b3)
