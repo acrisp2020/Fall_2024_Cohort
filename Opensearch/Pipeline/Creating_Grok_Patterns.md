@@ -1,7 +1,3 @@
-Creating custom Grok patterns allows you to parse logs in unique formats by defining custom extraction rules for log fields. Here’s a guide on creating and customizing Grok patterns, including details about optional parameters, escape sequences, and common data types.
-
----
-
 ## Grok Pattern Basics
 
 A Grok pattern is a combination of **regular expressions** and **named identifiers** that match structured data in text. Each pattern has a structure like:
@@ -133,9 +129,5 @@ This captures:
 
 ## Testing and Validating Grok Patterns
 
-1. **Online Grok Pattern Testers**: Use online tools like the [Grok Debugger in OpenSearch](https://opensearch.org/) to test patterns.
+1. **Online Grok Pattern Testers**: Use online tools like [Grok Debugger]([https://opensearch.org/](https://grokdebugger.com/)) to test patterns.
 2. **Logging and Monitoring**: Regularly monitor your OpenSearch logs to ensure patterns capture data correctly.
-
----
-
-This guide should help you design flexible, custom Grok patterns that handle specific log structures, including optional fields and complex log formats.
