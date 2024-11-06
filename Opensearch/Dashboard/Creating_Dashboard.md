@@ -9,7 +9,9 @@ OpenSearch Dashboards is a powerful interface for managing, visualizing, and que
 1. **Log in** to your OpenSearch Dashboards instance.
 2. Once logged in, you’ll see the **Home Page**, which provides quick links to popular features and helpful guides.
 
-![Screenshot 2024-11-06 at 8 58 51 AM](https://github.com/user-attachments/assets/7d855c32-b375-42f2-9273-5a057e9dfe9d)
+
+![Screenshot 2024-11-06 at 8 59 57 AM](https://github.com/user-attachments/assets/916cc6e1-a004-45d7-a1bd-57e5746a0838)
+
 
 ---
 
@@ -29,6 +31,8 @@ Indexes store data in OpenSearch. Managing your indexes is essential for organiz
    - If you need to create a new index, click on **Create Index**.
    - Specify the index name and any custom settings, then click **Create**.
    - You can now use this index to store and query data in OpenSearch.
+
+![Screenshot 2024-11-06 at 9 00 58 AM](https://github.com/user-attachments/assets/71e08b78-672b-4850-b9cf-4d75e42e76fc)
 
 ---
 
