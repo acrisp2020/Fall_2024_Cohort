@@ -129,5 +129,5 @@ This captures:
 
 ## Testing and Validating Grok Patterns
 
-1. **Online Grok Pattern Testers**: Use online tools like [Grok Debugger]([https://opensearch.org/](https://grokdebugger.com/)) to test patterns.
+1. **Online Grok Pattern Testers**: Use online tools like [Grok Debugger](https://grokdebugger.com/) to test patterns.
 2. **Logging and Monitoring**: Regularly monitor your OpenSearch logs to ensure patterns capture data correctly.
