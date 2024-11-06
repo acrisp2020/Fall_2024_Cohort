@@ -11,7 +11,6 @@ OpenSearch Dashboards is a powerful interface for managing, visualizing, and que
 
 
 ![Screenshot 2024-11-06 at 8 59 57 AM](https://github.com/user-attachments/assets/916cc6e1-a004-45d7-a1bd-57e5746a0838)
-![Screenshot 2024-11-06 at 9 04 44 AM](https://github.com/user-attachments/assets/f5eb4a28-452f-41eb-b61a-9a8115b7bda3)
 
 
 ---
@@ -44,6 +43,8 @@ An **Index Pattern** in OpenSearch Dashboards helps you identify and search data
 1. **Navigate to Index Patterns**:
    - Go to **Management** > **Index Patterns** under the **Data** section.
 ![Screenshot 2024-11-06 at 9 02 13 AM](https://github.com/user-attachments/assets/0d870015-e508-43c3-950d-3b32ec628636)
+![Screenshot 2024-11-06 at 9 04 44 AM](https://github.com/user-attachments/assets/0be4818c-488f-41bf-8e96-1fee13f12b20)
+
 
 2. **Create a New Index Pattern**:
    - Click **Create index pattern**.
