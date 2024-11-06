@@ -1,5 +1,5 @@
 
-#### Creating A System Service To Automatically Remove Files From A Directory
+# Creating A System Service To Automatically Remove Files From A Directory
 
 ### Step 1: Create the Python Script
 
