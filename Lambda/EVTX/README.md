@@ -46,6 +46,7 @@ Replace `YOUR_FUNCTION_NAME` with your Lambda function's name. This command uplo
 #### 5. Configure the Function
 
 - Set **Memory** and **Timeout** values to handle larger `.evtx` files.
+- - For ours the Memory is set to Maximum as it scales with CPU allocation and timeout is set to max at 15min.
 - Ensure the Lambda function has permission to read/write to S3 by attaching an appropriate IAM role.
 
 This should deploy and configure the Lambda function to start processing `.evtx` files when they are uploaded to the specified S3 bucket.
