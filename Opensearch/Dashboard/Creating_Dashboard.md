@@ -72,7 +72,10 @@ The **Discover** tool in OpenSearch Dashboards allows you to search, filter, and
    - Use the search bar to filter logs based on specific fields or keywords. For example, to find logs with a particular IP address, enter a query like `src_ip:192.168.1.1`.
    - Use time filters to view logs from specific time ranges.
 
-> **Tip**: Discover also offers visualization options for quick insights into your data, such as count over time.
+> **Tip**: Adjust time frame in the top right to show your data based upon the date variable selected.
+
+![Screenshot 2024-11-06 at 9 06 15 AM](https://github.com/user-attachments/assets/75a045c5-634d-4883-8532-1390a2fe14b3)
+
 
 ---
 
@@ -111,10 +114,6 @@ The **Dev Tools** console provides a powerful interface to run OpenSearch querie
      ```json
      DELETE /logs-2024-01
      ```
-
-> **Tip**: Adjust time frame in the top right to show your data based upon the date variable selected.
-
-![Screenshot 2024-11-06 at 9 06 15 AM](https://github.com/user-attachments/assets/75a045c5-634d-4883-8532-1390a2fe14b3)
 
 
 ---
