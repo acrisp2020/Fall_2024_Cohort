@@ -75,7 +75,7 @@ log-pipeline:
 Here’s an expanded guide with additional sections on adding multiple sinks, custom Grok patterns, and routing within OpenSearch pipelines.
 
 ---
-#Once The Basic Pipeline Is Created You Can Customize With
+# Once The Basic Pipeline Is Created You Can Customize With
 
 ## Multiple Sinks, Grok Patterns, Routing
 
