@@ -11,6 +11,7 @@ OpenSearch Dashboards is a powerful interface for managing, visualizing, and que
 
 
 ![Screenshot 2024-11-06 at 8 59 57 AM](https://github.com/user-attachments/assets/916cc6e1-a004-45d7-a1bd-57e5746a0838)
+![Screenshot 2024-11-06 at 9 04 44 AM](https://github.com/user-attachments/assets/f5eb4a28-452f-41eb-b61a-9a8115b7bda3)
 
 
 ---
