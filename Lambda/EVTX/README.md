@@ -18,7 +18,7 @@ To deploy this Lambda function, follow these steps:
 - Ensure your Lambda code and dependencies are in one folder.
 - Include all necessary libraries (like `Evtx`) alongside the function code if not available in AWS Lambda's execution environment.
 
-#### 2. Create a Zip File
+#### 2. Create a Zip File (If the file is not zipped already)
 
 ```bash
 zip -r EVTX-XML-LARGE.zip .
