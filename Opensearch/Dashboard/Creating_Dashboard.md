@@ -15,6 +15,8 @@ This guide explains the process for setting up a dashboard in OpenSearch for vis
 ### Step 1: Accessing OpenSearch Dashboards
 1. Log in to your OpenSearch Dashboard instance through the provided URL.
 2. Navigate to the **Dashboard** section on the left panel.
+![Screenshot 2024-11-06 at 8 40 57 AM](https://github.com/user-attachments/assets/159a9716-383f-43f9-903f-0c1991d8dd8b)
+
 
 ### Step 2: Creating a New Dashboard
 1. Click on the **Create Dashboard** button.
